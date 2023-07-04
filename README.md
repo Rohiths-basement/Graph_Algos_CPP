@@ -24,3 +24,9 @@ The things included in this are:
 
 This project can be further worked on to make it callable from python. This can be done by providing python bindings (Using Pybind11 or a similar library) 
 
+The input graph has been hardcoded and below is the Graph. 
+![Graph](https://github.com/Rohiths-basement/Graph_Algos_CPP/assets/83353135/42d3dc77-1abe-4e6c-a965-d9f580789813)
+
+
+To run this, just run it as you would a normal CPP file ie, - Compile it and then run it. On running the code, the algorithms get executed on their own and their respective results are displayed. 
+ 
